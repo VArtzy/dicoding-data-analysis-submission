@@ -2,8 +2,6 @@
 
 ## Business Understanding
 
-Jelaskan latar belakang bisnis dari perushaan tersebut.
-
 Jaya Jaya Maju adalah perusahaan multinasional yang didirikan pada tahun 2000 dan kini mempekerjakan lebih dari 1000 orang yang tersebar di berbagai wilayah di seluruh negeri.
 
 ### Permasalahan Bisnis
